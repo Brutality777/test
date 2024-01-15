@@ -1,0 +1,1 @@
+document.getElementById("1").addEventListener("click", ()=>{alert("hi")});
