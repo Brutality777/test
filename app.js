@@ -1,1 +1,1 @@
-document.getElementById("1").addEventListener("click", ()=>{alert("hi")});
+document.getElementById("2").addEventListener("click", ()=>{alert("hi")});
